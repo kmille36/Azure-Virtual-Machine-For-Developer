@@ -1,6 +1,10 @@
 # Azure-Virtual-Machine-For-Developer
 Free 8 core 32 GB with nested virtualization Azure VM.
 
+Author Facebook: https://facebook.com/thuong.hai.581
+
+Join our Discord: https://discord.io/RDPEmpire2711
+
 *Create on Azure Lab Services: https://labs.azure.com/register/oowlp4z1*
 
 *Users time: 1 hour*
@@ -36,6 +40,7 @@ Free 8 core 32 GB with nested virtualization Azure VM.
 - Office 365
 - Putty
 - WinRAR
+- 7-Zip
 - WinSCP
 - Java
 - Python
