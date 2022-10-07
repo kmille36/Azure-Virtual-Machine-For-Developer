@@ -13,6 +13,8 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 *User/Pass: developer/WindowsPassword@001
 
+*NOTE: All VM will be delete every 2 hours. You can re-claim VM in same account*
+
 *Policy:*
 
 - VM auto delete if it not in running (power off state).
