@@ -28,7 +28,6 @@ Join our Discord: https://discord.io/RDPEmpire2711
 - WSL2 (NOT WORK)
 - Docker (LINUX IMAGE NOT WORK)
 - Chocolatey GUI
-- Ubuntu 22.04 (WSL2)
 - Visual Studio
 - Visual Studio Code
 - IntelliJ IDEA
