@@ -54,4 +54,5 @@ Join our Discord: https://discord.io/RDPEmpire2711
 - Dev C++
 - Sublime text
 - VMware Workstation (NOT WORK)
+- Hyper-V (CAN'T INSTALL)
 - VirtualBox 6.0
