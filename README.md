@@ -13,7 +13,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 *Region: Hong Kong*
 
-*User/Pass: developer/WindowsPassword@001
+*User/Pass: developer/WindowsPassword@001*
 
 *NOTE: All VM will be delete every 2 hours. You can re-claim VM in same account (wait 5-10m before re-claim)*
 
