@@ -19,8 +19,6 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 *Policy:*
 
-- VM auto delete if it not in running (power off state).
-
 <img width="230" alt="image" src="https://user-images.githubusercontent.com/58414694/194564255-e1e90c3a-1439-4a37-8076-d0b104364359.png">
 
 *Software:*
