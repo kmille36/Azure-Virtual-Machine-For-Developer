@@ -3,7 +3,7 @@ Free 8 core 32 GB with nested virtualization Azure VM.
 
 *Create on Azure Lab Services: https://labs.azure.com/register/oowlp4z1*
 
-*Users time: 1 hours*
+*Users time: 1 hour*
 
 *Region: Hong Kong*
 
