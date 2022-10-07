@@ -52,3 +52,5 @@ Join our Discord: https://discord.io/RDPEmpire2711
 - Slack
 - Dev C++
 - Sublime text
+- VMware Workstation (not work)
+- VirtualBox 6.0
