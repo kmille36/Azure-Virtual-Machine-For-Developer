@@ -28,7 +28,7 @@ Free 8 core 32 GB with nested virtualization Azure VM.
 - IntelliJ IDEA
 - Android Studio
 - SQL Server 2019
-- 
+- Atom
 - Notepad ++
 - Chrome
 - Firefox
