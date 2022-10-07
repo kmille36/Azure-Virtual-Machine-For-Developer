@@ -7,7 +7,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 *Create on Azure Lab Services: https://labs.azure.com/register/oowlp4z1*
 
-*Users time: 1 hour*
+*Users time: 2 hours*
 
 *Region: Hong Kong*
 
@@ -32,6 +32,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 - IntelliJ IDEA
 - Android Studio
 - SQL Server 2019
+- PowerBI Desktop
 - Atom
 - Notepad ++
 - Chrome
@@ -46,3 +47,6 @@ Join our Discord: https://discord.io/RDPEmpire2711
 - Python
 - FileZilla
 - K-Lite Codecs
+- GIMP
+- Slack
+- Dev C++
