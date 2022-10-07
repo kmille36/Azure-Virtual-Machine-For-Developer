@@ -9,7 +9,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 *Create on Azure Lab Services: https://labs.azure.com/register/oowlp4z1*
 
-*Users time: 2 hour*
+*Users time: 2 hours*
 
 *Region: Hong Kong*
 
