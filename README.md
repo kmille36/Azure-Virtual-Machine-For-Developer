@@ -26,7 +26,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 - Malwarebytes
 - WSL2
-- Docker
+- Docker (LINUX IMAGE NOT WORK)
 - Chocolatey GUI
 - Ubuntu 22.04 (WSL2)
 - Visual Studio
