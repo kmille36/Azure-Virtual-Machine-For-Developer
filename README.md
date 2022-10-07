@@ -49,3 +49,4 @@ Join our Discord: https://discord.io/RDPEmpire2711
 - GIMP
 - Slack
 - Dev C++
+- Sublime text
