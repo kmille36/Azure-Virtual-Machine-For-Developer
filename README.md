@@ -11,7 +11,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 *Users time: 2 hours*
 
-*Region: Hong Kong*
+*Region: Singapore*
 
 *User/Pass: developer/WindowsPassword@001*
 
