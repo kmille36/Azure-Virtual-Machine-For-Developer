@@ -39,4 +39,5 @@ Free 8 core 32 GB with nested virtualization Azure VM.
 - WinSCP
 - Java
 - Python
-- 
+- FileZilla
+- K-Lite Codecs
