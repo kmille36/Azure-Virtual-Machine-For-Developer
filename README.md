@@ -19,7 +19,8 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 *Policy:*
 
-<img width="230" alt="image" src="https://user-images.githubusercontent.com/58414694/194564255-e1e90c3a-1439-4a37-8076-d0b104364359.png">
+<img width="332" alt="image" src="https://user-images.githubusercontent.com/58414694/194628058-7912a464-aa69-4a83-8217-57807bd8dd22.png">
+
 
 *Software:*
 
