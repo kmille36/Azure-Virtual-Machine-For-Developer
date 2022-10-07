@@ -22,7 +22,6 @@ Join our Discord: https://discord.io/RDPEmpire2711
 *Software:*
 
 - Malwarebytes
-- Hyper-V
 - WSL2
 - Docker
 - Chocolatey GUI
