@@ -24,6 +24,8 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 *Software:*
 
+![image](https://user-images.githubusercontent.com/58414694/194711666-f16a48b5-d392-4723-87ae-2377a3900a93.png)
+
 - Malwarebytes
 - WSL2 (NOT WORK)
 - Docker (LINUX IMAGE NOT WORK)
