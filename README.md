@@ -15,7 +15,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 *User/Pass: developer/WindowsPassword@001*
 
-*NOTE: All VM will be delete every 24 hours. You can re-claim VM in same account (wait 5-10m before re-claim)*
+*NOTE: All VMs will be deleted every 24 hours. You can re-claim the VM on the same account (wait 5-10m before re-claim) *
 
 *Policy:*
 
