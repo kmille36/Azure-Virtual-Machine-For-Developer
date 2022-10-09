@@ -17,7 +17,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 *NOTE: All VMs will be deleted every 24 hours. You can re-claim the VM on the same account (wait 5-10m before re-claim)*
 
-*VM for interactive users, so it should be turned off when users do not use. Keeping it always running, wasting my azure money (0.84$/h). You can turn it on if you want to use it and then turn off when not, or simply disconnect the RDP VM will turn off after 5 minutes.*
+*VM for interactive users, so it should be turned off when users do not use. Keeping it always running, wasting my azure organization money (0.84$/h). You can turn it on if you want to use it and then turn off when not, or simply disconnect the RDP VM will turn off after 5 minutes.*
 
 *Policy:*
 
