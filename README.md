@@ -15,7 +15,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 *User/Pass: developer/WindowsPassword@001*
 
-*NOTE: All VMs will be deleted every 24 hours. You can re-claim the VM on the same account (wait 5-10m before re-claim) *
+*NOTE: All VMs will be deleted every 24 hours. You can re-claim the VM on the same account (wait 5-10m before re-claim)*
 
 *Policy:*
 
@@ -57,3 +57,5 @@ Join our Discord: https://discord.io/RDPEmpire2711
 - VMware Workstation (NOT WORK)
 - Hyper-V (CAN'T INSTALL)
 - VirtualBox 6.0
+
+Create an issue if you want more sorfware.
