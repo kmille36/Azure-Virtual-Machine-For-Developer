@@ -58,4 +58,4 @@ Join our Discord: https://discord.io/RDPEmpire2711
 - Hyper-V (CAN'T INSTALL)
 - VirtualBox 6.0
 
-Create an issue if you want more sorfware.
+Create an issue if you want more software.
