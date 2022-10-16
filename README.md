@@ -30,7 +30,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 
 - Malwarebytes
 - WSL2 (NOT WORK)
-- Docker (LINUX IMAGE NOT WORK)
+- Docker (Enable WSL in Server Manager)
 - Chocolatey GUI
 - Visual Studio
 - Visual Studio Code
@@ -57,7 +57,7 @@ Join our Discord: https://discord.io/RDPEmpire2711
 - Dev C++
 - Sublime text
 - VMware Workstation (NOT WORK)
-- Hyper-V (CAN'T INSTALL)
+- Hyper-V (Install in Server Manager)
 - VirtualBox 6.0
 
 Create an issue if you want more software.
